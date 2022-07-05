@@ -2,4 +2,5 @@ go 1.18
 
 use (
 	./adventofcode/2015/01
+	./adventofcode/2015/02
 )
