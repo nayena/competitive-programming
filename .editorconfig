@@ -17,5 +17,8 @@ indent_size = 4
 indent_size = 4
 trim_trailing_whitespace = false
 
+[*.txt]
+insert_final_newline = false
+
 [Dockerfile]
 indent_size = 4
