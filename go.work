@@ -5,4 +5,6 @@ use (
 	./adventofcode/2015/02
 	./adventofcode/2015/03
 	./adventofcode/2015/04
+
+	./leetcode/remove-all-adjacent-duplicates-in-string-ii
 )
