@@ -27,7 +27,7 @@ contains the "Blind 75" list, which is more carefully selected problems to do. O
 the author of "Blind 75", made a new list called ["Grind 75"](https://www.techinterviewhandbook.org/grind75), which contains 75 (or up to 169) problems,
 that aid additionally in learning the techniques/topics.
 
-Lastly, I will use a site created by [Sean Prashad](Sean Prashad), called [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/) to ensure I have touched all important topics.
+Lastly, I will use a site created by [Sean Prashad](https://github.com/seanprashad), called [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/) to ensure I have touched all important topics.
 
 # Inspiration
 
